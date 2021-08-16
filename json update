@@ -1,0 +1,47 @@
+[33mcommit cf12e9f3df9a81b0fd00a5850cf4146662a90234[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Maksim Shastsel <max@shas.tel>
+Date:   Wed Feb 19 18:05:52 2020 +0300
+
+    Update README.md
+
+[33mcommit 3a2e2f37806096873f2f6f584d44d46cf705ab0d[m
+Author: Maksim Shastsel <max@shas.tel>
+Date:   Sat Jan 4 16:19:58 2020 +0300
+
+    Update README.md
+
+[33mcommit a959aeb575efb93eb361d12878af259744d1a6cf[m
+Author: Maksim Shastsel <max@shas.tel>
+Date:   Mon Dec 30 17:49:17 2019 +0300
+
+    Update README.md
+
+[33mcommit e83ca1a9ffd2a3d15057239b876c31243b701bf9[m
+Author: Maksim Shastsel <max@shas.tel>
+Date:   Tue Dec 17 19:03:00 2019 +0300
+
+    Update package.json
+
+[33mcommit 276d427ce204512efff0fa23819d6d92eebc1ffc[m
+Author: Maksim Shastsel <max@shas.tel>
+Date:   Tue Dec 17 19:02:41 2019 +0300
+
+    Update README.md
+
+[33mcommit 87d23a03a58dab2c70e3e8be6099a12cde16945c[m
+Author: shastel <max@shas.tel>
+Date:   Mon Dec 16 13:30:42 2019 +0300
+
+    🛠 Fix tests
+
+[33mcommit 9806bacc9323117ee7951a2edf969cc74a8c8a8b[m
+Author: shastel <max@shas.tel>
+Date:   Mon Dec 16 13:28:07 2019 +0300
+
+    Add test and descriptions
+
+[33mcommit 11238056ab5e4716f157f060e22dcc70dd963208[m
+Author: Maksim Shastsel <max@shas.tel>
+Date:   Sun Dec 15 15:10:43 2019 +0300
+
+    Initial commit
